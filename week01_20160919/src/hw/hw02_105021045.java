@@ -17,17 +17,17 @@ public class hw02_105021045 {
 		System.out.print("n=");
 	int n =scn.nextInt();
 	   int v1 =rnd.nextInt(n)+1;
-	   System.out.println(v1);
+	   System.out.println("第一個數字="+v1);
 	   int v2 =rnd.nextInt(n)+1;
-	   System.out.println(v2);
+	   System.out.println("第二個數字="+v2);
 	   int v3 =rnd.nextInt(n)+1;
-	   System.out.println(v3);
+	   System.out.println("第三個數字="+v3);
 	   int v4 =rnd.nextInt(n)+1;
-	   System.out.println(v4);
+	   System.out.println("第四個數字="+v4);
 	   int v5 =rnd.nextInt(n)+1;
-	   System.out.println(v5);
+	   System.out.println("第五個數字="+v5);
 	   int v6 =rnd.nextInt(n)+1;
-	   System.out.println(v6);
+	   System.out.println("第六個數字="+v6);
 
 	}
 

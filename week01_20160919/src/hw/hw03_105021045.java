@@ -28,7 +28,7 @@ public class hw03_105021045 {
 		System.out.print("n6=");
 		float n6 = scn.nextFloat();
 		float test5 = Math.min(test4, Math.round(n6));
-		System.out.print("6個數中的最小值="+test5);
+		System.out.print("6個數四捨五入後的最小值="+test5);
 		
 	}
 
