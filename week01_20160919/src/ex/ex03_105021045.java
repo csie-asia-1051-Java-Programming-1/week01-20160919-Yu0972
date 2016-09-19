@@ -15,7 +15,7 @@ public class ex03_105021045 {
 		float a = Scn.nextInt();
 		System.out.print("b=");
 		float b = Scn.nextInt();
-		System.out.println("b="+Math.pow(a, b));
+		System.out.println("a的b次方="+Math.pow(a,b));
 
 	}
 

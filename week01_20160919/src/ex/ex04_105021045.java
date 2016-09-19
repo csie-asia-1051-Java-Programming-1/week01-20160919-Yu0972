@@ -13,7 +13,7 @@ public class ex04_105021045 {
 		Scanner Scn = new Scanner(System.in);
 		System.out.print("a=");
 		float a = Scn.nextInt();
-		System.out.println("a="+Math.sqrt(a));
+		System.out.println("a的平方根="+Math.sqrt(a));
 
 	}
 
