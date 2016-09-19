@@ -16,7 +16,7 @@ public class hw04_105021045 {
 		System.out.print("b=");
 		float b = scn.nextFloat();
 		double c=Math.pow(a, 1/b);
-		System.out.print(" a開 b次方="+c);
+		System.out.print("a開b次方="+c);
 
 	}
 
